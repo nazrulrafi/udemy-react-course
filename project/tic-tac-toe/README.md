@@ -1,0 +1,1 @@
+<img src="public/tic-tac-toe.png"/>
