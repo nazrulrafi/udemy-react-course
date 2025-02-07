@@ -1,0 +1,53 @@
+{
+  "opinions": [
+    {
+      "id": 1737213566921,
+      "votes": 13,
+      "userName": "sweet sweetie",
+      "title": "making this the first true generator",
+      "body": "combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    },
+    {
+      "id": 1737212432655,
+      "votes": 11,
+      "userName": "nazrulrafi",
+      "title": "It has survived not only five centuries",
+      "body": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 1737212180366,
+      "votes": 0,
+      "userName": "nazrulrafi",
+      "title": "What is Lorem Ipsum?",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n"
+    },
+    {
+      "id": 1737212100042,
+      "votes": 0,
+      "userName": "nazrulrafi",
+      "title": "Where does it come from?",
+      "body": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. "
+    },
+    {
+      "id": 1737211340388,
+      "votes": 0,
+      "userName": "nazrulrafi",
+      "title": "Where can I get some?",
+      "body": "There are many variations of passages of Lorem Ipsum available, "
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
